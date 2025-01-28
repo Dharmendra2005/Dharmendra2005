@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dharmendra Gora
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java and web development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me ig-@dharmgora23
 - 😄 Pronouns: Dharm
 - ⚡ Fun fact: friends
