@@ -1,5 +1,5 @@
 - # 💫 About Me:
-👋 Hi, I’m Dharmendra Gora<br>👀 I’m interested in coding<br>🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Hackathon and Workshops<br>🤝 I’m looking for help with web designer<br>🌱 I’m currently learning fronted development (react.js)<br>💬 Ask me about : linkedin.com/in/dharmendra-gora-7064872a3/<br>⚡ Fun fact : Friends<br>😄 Pronouns: Dharm<br>
+👋 Hi, I’m Dharmendra Gora<br>👀 I’m interested in coding<br>🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Hackathon and Workshops<br>🤝 I’m looking for help with web designer<br>🌱 I’m currently learning Backend(node.js)<br>💬 Ask me about : linkedin.com/in/dharmendra-gora-7064872a3/<br>⚡ Fun fact : Friends<br>😄 Pronouns: Dharm<br>
 
 
 ## 🌐 Socials:
