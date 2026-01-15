@@ -1,6 +1,14 @@
 - # 💫 About Me:
-👋 Hi, I’m Dharmendra Gora<br>👀 I’m interested in coding<br>🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Hackathon and Workshops<br>🤝 I’m looking for help with web designer<br>🌱 I’m currently learning Backend(node.js)<br>💬 Ask me about : linkedin.com/in/dharmendra-gora-7064872a3/<br>⚡ Fun fact : Friends<br>😄 Pronouns: Dharm<br>
+👋 Hi, I’m 💻 Dharmendra Gora <br>
+🚀 Computer Science & Engineering student | Aspiring Software Engineer  <br>
+👨‍💻 Passionate about building real-world projects and exploring scalable web technologies <br>
+🔧 Currently working on backend development with Node.js , Express & Mongodb <br>
+🌱 Learning full-stack development with a strong focus on backend systems <br>
+🤝 Open to collaborating on hackathons, workshops, and open-source projects <br>
+🎯 Interested in web development, automation, and problem-solving <br>
+💬 Let’s connect: linkedin.com/in/dharmendra-gora-7064872a3/ <br>
 
+⚡ Fun fact: I believe consistency > motivation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharm_gora.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DharmendraGora) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DhaRM_GORA) 
